@@ -1,0 +1,84 @@
+/* google font design */
+
+* {
+    font-family: Raleway;
+}
+
+.login {
+    background-color: #3f87f5 !important;
+    color: white !important;
+}
+
+.logout {
+    background-color: brown !important;
+    color: white !important;
+}
+
+
+/* background color in navbar and button */
+
+.background-color {
+    background-color: #ffffff;
+}
+
+.a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.background-color-plan {
+    background-color: #3f87f5;
+    color: #ffffff;
+}
+
+.explore-now-button {
+    background-color: #3f87f5;
+}
+
+.explore-button-design {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hot-div {
+    color: #ffffff;
+}
+
+.xtra-part {
+    background-color: #3f87f5;
+    border-radius: 20px;
+    padding: 20px;
+    color: #ffffff;
+}
+
+.footer-class {
+    background-color: #0a0826;
+    text-align: center;
+    color: white;
+    width: 100% !important;
+    height: 239px;
+}
+
+.footer-main-title {
+    padding-top: 30px;
+}
+
+.footer p {
+    margin-top: 10px;
+}
+
+.fab {
+    margin-right: 15px;
+    color: white;
+}
+
+
+/* banner design */
+
+.banners .comapany-names {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 25px;
+    padding: 20px 50px;
+    margin: 15px;
+}
